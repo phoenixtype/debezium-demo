@@ -9,7 +9,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * https://www.baeldung.com/debezium-intro
+ * Reference: <a href="https://www.baeldung.com/debezium-intro">...</a>
  */
 
 @Configuration
