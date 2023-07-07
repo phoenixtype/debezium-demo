@@ -8,6 +8,10 @@ import org.springframework.context.annotation.Configuration;
 import java.io.File;
 import java.io.IOException;
 
+/**
+ * https://www.baeldung.com/debezium-intro
+ */
+
 @Configuration
 public class DebeziumConnectorConfig {
 
